@@ -1,0 +1,8 @@
+.product{
+  width: 10rem;
+  height: 10rem;
+  background-color: bisque;
+  border-radius: 0.25rem;
+  margin: 0.5rem;
+  display: inline-block;
+}
